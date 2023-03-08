@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+}
+
+#titleFormat {     
+background-color: lightgreen;
+color: blue;
+padding: 40px;
+text-align: left;
+
+
+}
+#dannyStyle {
+    Background-color: purple;
+    color: red;
+    padding: 30px;
+    text-align: left;
+    margin-top: 100%;
+}
+#cutiePatooti {
+    Background-color: pink;
+    color: green;
+    padding: 70;
+    text-align: justify;
+    animation-name: initial;
+
+}
+#licahIsCrazy {
+    Background-color: black;
+    color: aliceblue;
+    padding: 110;
+    text-align: end;
+    animation-name: initial;
+}
+#heading1 {
+    Background-image: url("https://static.vecteezy.com/system/resources/thumbnails/001/840/806/small/dark-pink-blurred-template-vector.jpg");
+
+}
