@@ -4,9 +4,20 @@
     box-sizing:border-box;
 }
 
+.container {
+    display: grid;
+    grid-template-columns: 50px 50px 50px 50px;
+    grid-template-rows: auto;
+    grid-template-areas: 
+      "header header header header"
+      "main main . sidebar"
+      "footer footer footer footer";
+  }
+
+
 #titleFormat {     
-background-color: lightgreen;
-color: blue;
+background-color: rgb(38, 204, 38);
+color: black;
 padding: 40px;
 text-align: left;
 
